@@ -2,6 +2,8 @@
 
 Custom shortcut for your PC on your phone.
 
+![alt text](https://raw.githubusercontent.com/rivafarabi/deckboard/master/static/img/00.9030acc.png)
+
 ## Macros Included
 - Keyboard macro
 - Multimedia control
