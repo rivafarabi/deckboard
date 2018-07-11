@@ -9,13 +9,27 @@ No more windows switching to open the folder or website, get Deckboard to simpli
 With OBS Studio and Streamlabs OBS supported, bring Deckboard as your personal streaming companion tool!
 Connect your computer to your device through local WiFi connection by entering IP address or scanning QR code.
 
-## Macros Included
+## Features
+- Custom macro button with image and label
+- Unlimited macros with 4 x 3 buttons per board (5 x 4 buttons on pro version)
 - OBS Studio and Streamlabs OBS control for streaming (OBS Websocket plugin required)
+- Easy connect through local WiFi connection by entering IP address or scanning QR code.
+
+## Available Macros
 - Keyboard macro
-- Multimedia control
-- Open Folder
-- Open Website
-- Run Program
+- Open website
+- Open folder
+- Multimedia controls (play, next track, prev track , etc)
+- Run executable
+- Switch scenes (OBS Studio and Streamlabs OBS)
+- Toggle resources (OBS Studio and Streamlabs OBS)
+- Toggle streaming and recording (OBS Studio and Streamlabs OBS)
+- Control audio device (OBS Studio)
+
+## Download
+- [Windows](https://github.com/rivafarabi/deckboard/releases/download/v1.2.0/Deckboard-Setup-1.2.0.exe)
+- [Android](https://play.google.com/store/apps/details?id=com.rivafarabi.deckboard)
+- [Android (Pro Version with no Ads)](https://play.google.com/store/apps/details?id=com.rivafarabi.deckboard.pro)
 
 ## Privacy Policy
 
