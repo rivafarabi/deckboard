@@ -1,8 +1,11 @@
-# DECKBOARD
-
-Custom shortcut for your PC on your phone.
-
-![alt text](https://raw.githubusercontent.com/rivafarabi/deckboard/master/media/featured.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rivafarabi/deckboard/master/media/featured.png" />
+  <p align="center">
+  <h2>Deckboard</h2><br>
+  <img src="https://img.shields.io/github/release/rivafarabi/deckboard.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/github/downloads/rivafarabi/deckboard/total.svg?style=for-the-badge" />
+  </p>
+</p>
 
 Create custom computer macro shortcuts and launch them through your device.
 No more windows switching to open the folder or website, get Deckboard to simplify them and maximize your productivity!
