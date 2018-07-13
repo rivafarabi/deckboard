@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/rivafarabi/deckboard/master/media/featured.png" />
+  <h2 align="center">Deckboard</h2>
   <p align="center">
-  <h2>Deckboard</h2><br>
-  <img src="https://img.shields.io/github/release/rivafarabi/deckboard.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/github/downloads/rivafarabi/deckboard/total.svg?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/platform-Windows-red.svg?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/release/rivafarabi/deckboard.svg?style=for-the-badge" />
+    <img src="https://img.shields.io/github/downloads/rivafarabi/deckboard/total.svg?style=for-the-badge" />
   </p>
 </p>
 
