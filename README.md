@@ -31,7 +31,7 @@ Connect your computer to your device through local WiFi connection by entering I
 - Control audio device (OBS Studio)
 
 ## Download
-- [Windows](https://github.com/rivafarabi/deckboard/releases/download/v1.2.62/Deckboard-Setup-1.2.62.exe)
+- [Windows](https://github.com/rivafarabi/deckboard/releases)
 - [Android](https://play.google.com/store/apps/details?id=com.rivafarabi.deckboard)
 - [Android (Pro Version with no Ads)](https://play.google.com/store/apps/details?id=com.rivafarabi.deckboard.pro)
 
