@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rivafarabi/deckboard/master/media/featured.png" width=75% />
+  <img src="https://deckboard.app/_nuxt/img/featured-desktop.c893dd9.png" width=75% />
   <h2 align="center">Deckboard</h2>
   <p align="center">
     <img src="https://img.shields.io/badge/platform-Windows-red.svg?style=for-the-badge"/>
