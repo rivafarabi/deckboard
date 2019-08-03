@@ -25,6 +25,8 @@ Connect your computer to your device through local WiFi connection by entering I
 - Open folder
 - Multimedia controls (play, next track, prev track , etc)
 - Run executable
+- Twitch chat controls
+- Spotify playback controls
 - Switch scenes (OBS Studio and Streamlabs OBS)
 - Toggle resources (OBS Studio and Streamlabs OBS)
 - Toggle streaming and recording (OBS Studio and Streamlabs OBS)
