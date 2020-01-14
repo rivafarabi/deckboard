@@ -26,7 +26,7 @@ Connect your computer to your device through local WiFi connection by entering I
 - Multimedia controls (play, next track, prev track , etc)
 - Run executable
 - Twitch chat controls
-- Spotify playback controls
+- Spotify playback controls (Premium user only)
 - Switch scenes (OBS Studio and Streamlabs OBS)
 - Toggle resources (OBS Studio and Streamlabs OBS)
 - Toggle streaming and recording (OBS Studio and Streamlabs OBS)
@@ -35,7 +35,12 @@ Connect your computer to your device through local WiFi connection by entering I
 ## Download
 - [Windows](https://github.com/rivafarabi/deckboard/releases)
 - [Android](https://play.google.com/store/apps/details?id=com.rivafarabi.deckboard)
-- [Android (Pro Version with no Ads)](https://play.google.com/store/apps/details?id=com.rivafarabi.deckboard.pro)
+- [Android (Pro Version with more layouts)](https://play.google.com/store/apps/details?id=com.rivafarabi.deckboard.pro)
+
+## Support The Dev
+Love the app? You can support the development by purchasing [PRO version](https://play.google.com/store/apps/details?id=com.rivafarabi.deckboard.pro) or donate.
+
+<a href='https://ko-fi.com/G2G21CLFT' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## Privacy Policy
 
