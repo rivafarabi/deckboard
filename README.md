@@ -5,6 +5,7 @@
     <img src="https://img.shields.io/badge/platform-Windows-red.svg?style=for-the-badge"/>
     <img src="https://img.shields.io/github/release/rivafarabi/deckboard.svg?style=for-the-badge" />
     <img src="https://img.shields.io/github/downloads/rivafarabi/deckboard/total.svg?style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/DeckboardApp?label=Follow&style=for-the-badge&logo=twitter" />
   </p>
 </p>
 
