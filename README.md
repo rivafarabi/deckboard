@@ -16,7 +16,7 @@ Connect your computer to your device through local WiFi connection by entering I
 
 ## Features
 - Custom macro button with image and label
-- Unlimited macros with 4 x 3 buttons per board (5 x 4 buttons on pro version)
+- Unlimited macros with 4 x 3 buttons per board (15 x 15 buttons on pro version)
 - OBS Studio and Streamlabs OBS control for streaming (OBS Websocket plugin required)
 - Easy connect through local WiFi connection by entering IP address or scanning QR code.
 
