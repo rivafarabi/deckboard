@@ -35,6 +35,7 @@ Connect your computer to your device through local WiFi connection by entering I
 
 ## Download
 - [Windows](https://github.com/rivafarabi/deckboard/releases)
+- Linux ([.snap](https://snapcraft.io/deckboard))
 - [Android](https://play.google.com/store/apps/details?id=com.rivafarabi.deckboard)
 - [Android (Pro Version with more layouts)](https://play.google.com/store/apps/details?id=com.rivafarabi.deckboard.pro)
 
