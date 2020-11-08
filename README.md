@@ -2,7 +2,7 @@
   <img src="https://deckboard.app/_nuxt/img/featured-desktop.c893dd9.png" width=75% />
   <h2 align="center">Deckboard</h2>
   <p align="center">
-    <img src="https://img.shields.io/badge/platform-Windows-red.svg?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux-red.svg?style=for-the-badge"/>
     <img src="https://img.shields.io/github/release/rivafarabi/deckboard.svg?style=for-the-badge" />
     <img src="https://img.shields.io/github/downloads/rivafarabi/deckboard/total.svg?style=for-the-badge" />
     <img src="https://img.shields.io/twitter/follow/DeckboardApp?label=Follow&style=for-the-badge&logo=twitter" />
