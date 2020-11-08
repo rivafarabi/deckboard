@@ -34,8 +34,7 @@ Connect your computer to your device through local WiFi connection by entering I
 - Control audio device (OBS Studio)
 
 ## Download
-- [Windows](https://github.com/rivafarabi/deckboard/releases)
-- Linux ([.snap](https://snapcraft.io/deckboard))
+- [Server App (Windows/Linux)](https://github.com/rivafarabi/deckboard/releases)
 - [Android](https://play.google.com/store/apps/details?id=com.rivafarabi.deckboard)
 - [Android (Pro Version with more layouts)](https://play.google.com/store/apps/details?id=com.rivafarabi.deckboard.pro)
 
