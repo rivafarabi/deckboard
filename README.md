@@ -43,6 +43,11 @@ Love the app? You can support the development by purchasing [PRO version](https:
 
 <a href='https://ko-fi.com/G2G21CLFT' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
+## Connecting the client app to the server
+If you have any issues connecting the client mobile app to the server, it is likely that you need to allow the app through the firewall on your computer.
+
+For Linux users, you will need to open port `8500` for connections, as this is the port that the server uses.
+
 ## Privacy Policy
 
 The application Deckboard (Android), hereby defined as the app, requests the following potentially sensitive data:
