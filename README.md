@@ -11,13 +11,13 @@
 
 Create custom computer macro shortcuts and launch them through your device.
 No more windows switching to open the folder or website, get Deckboard to simplify them and maximize your productivity!
-With OBS Studio and Streamlabs OBS supported, bring Deckboard as your personal streaming companion tool!
+With OBS Studio and Streamlabs Desktop supported, bring Deckboard as your personal streaming companion tool!
 Connect your computer to your device through local WiFi connection by entering IP address or scanning QR code.
 
 ## Features
 - Custom macro button with image and label
 - Unlimited macros with 4 x 3 buttons per board (15 x 15 buttons on pro version)
-- OBS Studio and Streamlabs OBS control for streaming (OBS Websocket plugin required)
+- OBS Studio and Streamlabs Desktop control for streaming (OBS Websocket plugin required)
 - Easy connect through local WiFi connection by entering IP address or scanning QR code.
 
 ## Available Macros
@@ -28,9 +28,9 @@ Connect your computer to your device through local WiFi connection by entering I
 - Run executable
 - Twitch chat controls
 - Spotify playback controls (Premium user only)
-- Switch scenes (OBS Studio and Streamlabs OBS)
-- Toggle resources (OBS Studio and Streamlabs OBS)
-- Toggle streaming and recording (OBS Studio and Streamlabs OBS)
+- Switch scenes (OBS Studio and Streamlabs Desktop)
+- Toggle resources (OBS Studio and Streamlabs Desktop)
+- Toggle streaming and recording (OBS Studio and Streamlabs Desktop)
 - Control audio device (OBS Studio)
 
 ## Download
