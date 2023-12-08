@@ -27,7 +27,7 @@ Connect your computer to your device through local WiFi connection by entering I
 - Multimedia controls (play, next track, prev track , etc)
 - Run executable
 - Twitch chat controls
-- Spotify playback controls (Premium user only)
+- Spotify playlist control (like track and add track to playlist)
 - Switch scenes (OBS Studio and Streamlabs OBS)
 - Toggle resources (OBS Studio and Streamlabs OBS)
 - Toggle streaming and recording (OBS Studio and Streamlabs OBS)
